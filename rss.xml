@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aubrie]]></title>
         <description><![CDATA[Aubrie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aubrie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:32:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 18:33:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aubrie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Book and Weblog - Authored by Garth Turner - Greater Fool - Authored by Garth Turner - The Troubled Future of Real Estate]]></title>
+            <description><![CDATA[<article><h1>Book and Weblog - Authored by Garth Turner - Greater Fool - Authored by Garth Turner - The Troubled Future of Real Estate</h1><p>Well, the point is there's enough misery in the oil patch right now without media vultures making stuff up. There's no wave of jingle mail taking place. It may come. But we're not there yet. Having said that, nobody should believe the stats coming out of the Calgary Real Estate Board, either.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b60421bc4c30409f90f8664093e4ef03d64cafb.png"></article>]]></description>
+            <link>http://www.greaterfool.ca/</link>
+            <guid isPermaLink="false">5a61b5f2-ce5a-4d32-8606-18f5992326da</guid>
+            <pubDate>Wed, 10 Feb 2016 18:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/682e8414-bdb0-4fc2-b770-e14bea742d13.JPG">]]></description>
-            <link>undefined2ed5948a-176c-4048-adf9-1b93cda7ea84/index.html</link>
+            <link>https://thegrid.ai/aubrie/2ed5948a-176c-4048-adf9-1b93cda7ea84/index.html</link>
             <guid isPermaLink="false">2ed5948a-176c-4048-adf9-1b93cda7ea84</guid>
             <pubDate>Wed, 10 Feb 2016 18:31:59 GMT</pubDate>
         </item>

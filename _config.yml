@@ -1,4 +1,7 @@
-layout_spectrum: 0.5448028
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +21,20 @@ collections:
 purpose: []
 color:
   saturation: 0.7043011
-  brandStrength: 0.2168459
+  brandStrength: 0.2992831
   lightness: 0.6146954
   brandColors:
-    - '#040605'
-    - '#787973'
-    - '#FFFFFF'
-    - '#204862'
-    - '#CDB28A'
+    - '#7A6F69'
+    - '#FFFFFD'
+    - '#06050A'
+    - '#574E47'
+    - '#C4BFBB'
   rhythmicContrast: 0.6792115
 typography_spectrum: 0.6917562
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.5448028
 favicon: null
 name: Aubrie

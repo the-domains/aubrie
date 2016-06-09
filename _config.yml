@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7043011
   brandStrength: 0.2992831
-  lightness: 0.6146954
+  rhythmicContrast: 0.6792115
   brandColors:
     - '#7A6F69'
     - '#FFFFFD'
     - '#06050A'
     - '#574E47'
     - '#C4BFBB'
-  rhythmicContrast: 0.6792115
+  lightness: 0.6146954
 typography_spectrum: 0.6917562
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5448028
-favicon: null
+layout_spectrum: 0.2706093
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Aubrie

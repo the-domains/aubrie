@@ -1,8 +1,7 @@
 name: Aubrie
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.6917562
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7043011
-  brandStrength: 0.2992831
-  rhythmicContrast: 0.6792115
   brandColors:
     - '#7A6F69'
     - '#FFFFFD'
     - '#06050A'
     - '#574E47'
     - '#C4BFBB'
+  brandStrength: 0.2992831
   lightness: 0.6146954
-typography_spectrum: 0.6917562
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0
+  saturation: 0.7043011
+  rhythmicContrast: 0.6792115
+purpose: []
